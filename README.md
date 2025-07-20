@@ -38,7 +38,7 @@ Notes
 
 License
 
-You can specify your preferred license here, e.g., MIT License.
+by jackal
 
 ---
 
